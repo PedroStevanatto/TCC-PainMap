@@ -24,7 +24,7 @@ header p {
     height: 6rem;
 }
 
-.button {
+.div-botao .button {
     width: 20rem;
     height: 5rem;
     border: 0.1em solid white;
